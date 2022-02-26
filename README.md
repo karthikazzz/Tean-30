@@ -1,2 +1,7 @@
 # designsprintdemosite
-Priyanka R (20BTT028)2.Joyslin Jenifer S (20BCE028)3.GiftlinDevapriya K (20BEC032)4.Gokul M (20BCS032)5.Gokul Raj K (20BEE030)6.Dinesh M (20BME029)
+Name: Gowtham E L P                 Roll Number : 20BEE032
+Name: HARIHARAN A	             Roll Number :20BEC034
+Name: ROOPESH U S 	             Roll Number : 20BTT030
+Name: HARIHARAN R 	             Roll Number : 20BCS034
+Name: Karthikaramani B             Roll Number :20BCE030
+Name: GOKULPRASAD A M         Roll Number : 20BME126
